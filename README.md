@@ -1,0 +1,1 @@
+Repo includes the code and the final paper for my thesis project Asset Price Prediction using Multiple Linear Regression. In this project, I train an MLR model on various economic predictors to predict the high of tomorrow for S&P500 from years 2013-2018.
